@@ -6,7 +6,7 @@ import './App.css'
 
 function LanguageChooser() {
     const { language, setLanguage } = useContext(LanguageContext);
-    const languages = ['🇬🇧 English', '🇩🇪 German', '🇮🇩 Bahasa Indonesia', '🇰🇷 Korean', '🇹🇭 Thai', '🇸🇪 Swedish']
+    const languages = ['🇬🇧 English', '🇩🇪 German', '🇮🇩 Bahasa Indonesia', '🇰🇷 Korean', '🇹🇭 Thai', '🇸🇪 Swedish', '🇨🇳 Mandarin Chinese', '🇪🇸 Spanish', '🇫🇷 French', '🇵🇹 Portuguese', '🇮🇳 Hindi', '🇷🇺 Russian', '🇧🇩 Bangla', '🇵🇰 Urdu', '🇯🇵 Japanese', '🇹🇷 Turkish', '🇩🇰 Danish', '🇮🇹 Italian', '🇻🇳 Vietnamese', '🇳🇱 Dutch'];
 
     return(
         <div>
