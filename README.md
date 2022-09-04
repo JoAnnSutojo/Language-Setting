@@ -6,3 +6,7 @@ The WelcomeMessage component  shows the message in the language that the user ha
 
 If the user changes the language settings, the message will be updated accordingly.
 
+## Live Demo
+
+View the live demo [here](https://candid-mermaid-b26a0b.netlify.app)
+
